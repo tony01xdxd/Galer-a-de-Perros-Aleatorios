@@ -66,3 +66,7 @@ Contribuciones de:
 ## 📄 Licencia
 
 Este proyecto es de uso libre con fines educativos.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6f1e3b4497d3bfc8c94ae41a3409733f577269dd
